@@ -399,7 +399,7 @@ function mouseover(d, i) {
 		.html(infoBox)
 			.style("display","block");
 	
-	responsiveVoice.speak("Donor:     " + donor + "Amount of donation:     " + "  £" + amount);	//add voice
+	responsiveVoice.speak("The na me of the donor is" + donor + "And the ammount of the donation is " + amount);
 	}
 
 function mouseout() {
@@ -411,7 +411,7 @@ function mouseout() {
 		d3.select(".tooltip")
 			.style("display", "none");
 	
-	responsiveVoice.cancel();	//remove voice
+	responsiveVoice.cancel();	
 		}
 
 $(document).ready(function() {
