@@ -289,7 +289,3 @@ https://github.com/yui/pure/blob/master/LICENSE.md
     color: rgb(0, 120, 231);
     color: #fff
 }
-/* New class */
-.zoom:hover {
-    font-size: large; 
-}
