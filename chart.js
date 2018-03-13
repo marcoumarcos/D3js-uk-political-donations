@@ -371,7 +371,6 @@ function mouseover(d, i) {
 	var party = d.partyLabel;
 	var entity = d.entityLabel;
 	var offset = $("svg").offset();
-	this.style.cursor="pointer";	//change the style of cursor to pointer
 
 	// image url that want to check
 	var imageFile = "https://raw.githubusercontent.com/ioniodi/D3js-uk-political-donations/master/photos/" + donor + ".ico";
@@ -406,8 +405,6 @@ function mouseover(d, i) {
 function mouseout() {
 	// no more tooltips
 		var mosie = d3.select(this);
-		
-		this.style.cursor="default";	//default style of cursor
 	
 		mosie.classed("active", false);
 
