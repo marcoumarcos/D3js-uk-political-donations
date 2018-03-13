@@ -26,7 +26,7 @@ li {
 }
 
 /* Initial appearance on load */
-#view-party-type, #view-donor-type, #view-source-type {
+#view-party-type, #view-donor-type, #view-source-type, #view-donation-amount {  /* ++ */
     display: none;
 }
 
@@ -38,40 +38,6 @@ li {
 #view-party-type {
     left: 650px;
     width: 272px;
-}
-
-#view-amount-type {
-    height: 100%;
-}
-
-#amountofdonation {
-    left: 500px;
-    top: 150px;
-    position: absolute;
-}
-
-#Upto500000 {
-    left: 200px;
-    top: 200px;
-    position: absolute;
-}
-
-#Upto5000000 {
-    left: 750px;
-    top: 250px;
-    position: absolute;
-}
-
-#Upto10000000 {
-    left: 150px;
-    top: 800px;
-    position: absolute;
-}
-
-#Upto20000000 {
-    left: 750px;
-    top: 700px;
-    position: absolute;
 }
 
 /*  Public or private funds view */
@@ -97,15 +63,15 @@ li {
 /*  Party view */
 #conservative, #labour, #libdem { padding: 10px; }
 #conservative {
-    background: rgba(255, 0, 0, 0.5);
+    background: rgba(155, 142, 189, 0.2);                 /* 8, 127, 189 */
     top: 110px;
 }
 #labour {
-    background: rgba(0, 255, 0, 0.5);
+    background: rgba(48, 142, 21, 0.2);                 /* 240, 34, 51 */
     top: 330px;
 }
 #libdem {
-    background: rgba(0, 0, 255, 0.5);
+    background: rgba(135, 90, 41, 0.2);                /* 253, 187, 48 */
     top: 550px;
 }
 
@@ -136,6 +102,59 @@ li {
     right: 0
 }
 
+/* Amount of donation view */
+#view-donation-amount {
+    top: 140px;
+    left: 500px;
+    width: 370px;  
+}
+#first {
+    font-weight: bold;
+    position: absolute;
+    top: 235px;
+    left: 250px;
+    width: 93px;
+}
+
+#second {
+    font-weight: bold;
+    position: absolute;
+    top: 235px;
+    left: 426px;
+    width: 93px;
+}
+
+#third {
+    font-weight: bold;
+    position: absolute;
+    top: 235px;
+    left: 550px;
+    width: 93px;
+}
+
+#fourth {
+    font-weight: bold;
+    position: absolute;
+    top: 235px;
+    left: 673px;
+    width: 93px;
+}
+
+#fifth {
+    font-weight: bold;
+    position: absolute;
+    top: 235px;
+    left: 778px;
+    width: 93px;
+}
+
+#sixth {
+    font-weight: bold;
+    position: absolute;
+    top: 235px;
+    left: 895px;
+    width: 93px;
+}
 /* Value scale */
 
 #value-scale {
@@ -269,4 +288,8 @@ https://github.com/yui/pure/blob/master/LICENSE.md
 .pure-button-active, .pure-button:active {
     color: rgb(0, 120, 231);
     color: #fff
+}
+/* New class */
+.zoom:hover {
+    font-size: large; 
 }
