@@ -80,7 +80,6 @@ function transition(name) {
 		$("#view-donation-amount").fadeOut(250);
 		return fundsType();
 	}
-	//New transition
 	if (name === "group-by-donation-amount") {
 		$("#initial-content").fadeOut(250);
 		$("#value-scale").fadeOut(250);
