@@ -102,59 +102,44 @@ li {
     right: 0
 }
 
-/* Amount of donation view */
+/* Amount splits */
 #view-amount {
     top: 140px;
     left: 500px;
     width: 370px;  
 }
-#first {
+#splitone {
     font-weight: bold;
     position: absolute;
-    top: 235px;
-    left: 250px;
+    top: 700px;
+    left: 750px;
     width: 93px;
 }
 
-#second {
+#splittwo {
     font-weight: bold;
     position: absolute;
-    top: 235px;
-    left: 426px;
+    top: 800px;
+    left: 150px;
     width: 93px;
 }
 
-#third {
+#splitthree {
     font-weight: bold;
     position: absolute;
-    top: 235px;
-    left: 550px;
+    top: 250px;
+    left: 750px;
     width: 93px;
 }
 
-#fourth {
+#splitfour {
     font-weight: bold;
     position: absolute;
-    top: 235px;
-    left: 673px;
+    top: 200px;
+    left: 200px;
     width: 93px;
 }
 
-#fifth {
-    font-weight: bold;
-    position: absolute;
-    top: 235px;
-    left: 778px;
-    width: 93px;
-}
-
-#sixth {
-    font-weight: bold;
-    position: absolute;
-    top: 235px;
-    left: 895px;
-    width: 93px;
-}
 /* Value scale */
 
 #value-scale {
