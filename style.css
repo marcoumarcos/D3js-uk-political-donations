@@ -21,12 +21,12 @@ li {
 
 /* 	Information boxes for different chart layouts */
 /* Positioning */
-#initial-content, #initial-content-pie, #a, #b, #c, #d, #e, #f, #view-party-type, #view-donor-type, #view-source-type, #partyInfo, #conservative, #labour, #libdem, #individual, #company, #union, #society, #other, #public-or-private-money, #public-or-private-money-split, #private-money, #public-money {
+#initial-content, #initial-content-pie, #a, #b, #c, #d, #e, #f, #a1, #b1, #c1, #d1, #e1, #view-party-type, #view-donor-type, #ana-enotita, #view-source-type, #partyInfo, #conservative, #labour, #libdem, #individual, #company, #union, #society, #other, #boreiou, #dytikou, #kentrikou, #notiou, #public-or-private-money, #public-or-private-money-split, #private-money, #public-money {
     position: absolute; 
 }
 
 /* Initial appearance on load */
-#view-party-type, #view-donor-type, #view-source-type, #view-amount, #pie-chart, #initial-content-pie {
+#view-party-type, #view-donor-type, #ana-enotita, #view-source-type, #view-amount, #pie-chart, #initial-content-pie {
     display: none;
 }
 
@@ -82,6 +82,11 @@ li {
     width: 370px;
     
 }
+#ana-enotita{
+    height: 100%;
+    left: 500px;
+    width: 230px;
+}
 #individual {
     top: 55px;
 }
@@ -101,6 +106,24 @@ li {
     text-align: right;
     right: 0
 }
+
+#boreiou {
+    top: 55px;
+}
+#dytikou {
+    top: 390px;
+}
+#kentrikou {
+    top: 205px;
+    text-align: right;
+    right: 0;
+}
+#notiou {
+    top: 530px;
+    text-align: right;
+    right: 0
+}
+
 
 /* Amount splits */
 #view-amount {
@@ -146,13 +169,18 @@ li {
     opacity: 0.5;
     font-size: 0.75em;
 }
-#a, #b, #c, #d, #e { left: 40px; }
+#a, #b, #c, #d, #e, #a1, #b1, #c1, #d1, #e1 { left: 40px; }
 #a { top: 635px;}
 #b { top: 585px;}
 #c { top: 535px;}
 #d { top: 485px;}
 #e { top: 435px;}
 #f { top: 648px; left: 575px; }
+#a1 { top: 700px;}
+#b1 { top: 585px;}
+#c1 { top: 445px;}
+#d1 { top: 305px;}
+#e1 { top: 185px;}
 
 /* End of view */
 
@@ -176,7 +204,7 @@ circle.active {
     line-height: 1.4;
     display: none;
     height: 125px;
-    width: 280px;
+    width: 380px;
     text-align: left;
     border: 4px solid rgba(0, 0, 0, .8);
     border-radius: 2px;
