@@ -31,9 +31,33 @@
     </script>
     
      <style type="text/css">
-.zoom:hover {
-   transform: scale(1.5);
- }
+        .zoom:hover {
+           transform: scale(1.5);
+         }
+         #mouse-visits{
+               position: fixed;
+               bottom: 10px;
+               right: 10px;
+               width: 300px;
+               height: 200px;
+               overflow-y: scroll;
+               border: 2px solid grey;
+               background-color: whitesmoke;
+               padding: 10px;
+           }
+           .icon-image{
+               width: 50px;
+           }
+           .pie-label{
+               font-size: 13px;
+           }
+           .pie-amount{
+               font-size: 11px;
+           }
+           #pie-svg path {
+               stroke: #FFFFFF;
+               stroke-width: 4;
+           }
  </style>
     
 </head>
@@ -52,6 +76,8 @@
     <nav role="navigation">
         <ul>
             <li><a href="#" onclick="sound.play()" role="button" class="pure-button switch" id="all-donations"> <p class=zoom> All money </p> </a>
+            </li>
+            <li><a href="#" onclick="sound.play()" role="button" class="pure-button switch" id="all-donations-pie"> <p class=zoom> Pie Chart</p> </a>
             </li>
             <li><a href="#" onclick="sound.play()" role="button" class="pure-button switch" id="group-by-money-source"> <p class=zoom> The public's purse </p> </a>
             </li>
@@ -75,6 +101,11 @@
             <p class=zoom>Get an immediate overview of how party funding is shaped in Britain today by selecting one of the options at the top of the page.</p>
             <p class=zoom>Data is based on all reportable donations over &#163;7500.</p>
             <p class=zoom>Data source: <a href="http://www.electoralcommission.org.uk/">The Electoral Commission.</a>
+            </p>
+        </div>
+        <div id="initial-content-pie">
+            <h2 class=zoom>Pie chart</h2>
+            <p class=zoom>The outer circle represents the amount received by each party and the inner circle the contribution of each entity.</p>
             </p>
         </div>
         <div id="value-scale">
@@ -232,7 +263,8 @@
     </div>
     <div id="chart"></div>
     
-    
+    <div id="mouse-visits"></div>
+    <div id="pie-chart"></div>
     
     <script src="https://code.responsivevoice.org/responsivevoice.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
