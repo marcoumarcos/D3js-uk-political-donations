@@ -27,20 +27,20 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>D3js-uk-political-donations/style.css at master · marcoumarcos/D3js-uk-political-donations</title>
+  <title>D3js-uk-political-donations/style.css at master · ioniodi/D3js-uk-political-donations</title>
     <meta name="description" content="GitHub is where people build software. More than 27 million people use GitHub to discover, fork, and contribute to over 80 million projects.">
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/17272645?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="marcoumarcos/D3js-uk-political-donations" /><meta property="og:url" content="https://github.com/marcoumarcos/D3js-uk-political-donations" /><meta property="og:description" content="Contribute to D3js-uk-political-donations development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/10490779?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ioniodi/D3js-uk-political-donations" /><meta property="og:url" content="https://github.com/ioniodi/D3js-uk-political-donations" /><meta property="og:description" content="Contribute to D3js-uk-political-donations development by creating an account on GitHub." />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mjc0NDI2MDU3OmFlMTBhOTg5MGMwMTU5YzNjYzNjOTkyN2I4OGM5MDQzYzlkNjY1NTIxMTAyOTcyNzMyMjZhZTNjMjM2NWY5ZTI=--2756d990318e841be72a9b4463d566bc616c6c1f">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mjc0NDI2MDU3OmI2ZGU0ZTQ0Yjg5ZmI5ODJjNmQ0N2Y0OWRlYWE4Y2IwYjk5YWRkNjI2OGEyN2NhMjJiNGZiM2IyNGExYzE5NWI=--92a710db6dc4048553f6bddf391850022646561f">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="C42C:2CB7:90F6D8:110774A:5AF214FE" data-pjax-transient>
+  <meta name="request-id" content="C3E2:2CB9:6F7238:D8B393:5AF2167C" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="C42C:2CB7:90F6D8:110774A:5AF214FE" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="17272645" /><meta name="octolytics-actor-login" content="marcoumarcos" /><meta name="octolytics-actor-hash" content="e33390ae9519aa11bfc62fd27bbab2ad11101aa90e1f9f93d74609132456708f" />
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="C3E2:2CB9:6F7238:D8B393:5AF2167C" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="17272645" /><meta name="octolytics-actor-login" content="marcoumarcos" /><meta name="octolytics-actor-hash" content="e33390ae9519aa11bfc62fd27bbab2ad11101aa90e1f9f93d74609132456708f" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -67,7 +67,7 @@
     <meta name="user-login" content="marcoumarcos">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NTBjOTZmODA5NmI3ZDMyY2JhMzNiZWI1MGMxZGYxNDk2Zjc4NjNlNmNjYTZhZWNhZGM0MGE5NWQ2NzEyYTk2Y3x7InJlbW90ZV9hZGRyZXNzIjoiMi44NS45MS40NSIsInJlcXVlc3RfaWQiOiJDNDJDOjJDQjc6OTBGNkQ4OjExMDc3NEE6NUFGMjE0RkUiLCJ0aW1lc3RhbXAiOjE1MjU4MTQ1MzUsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="MDljYzhiN2Q3NGY1MTg3ZWRkOTkzNjkzMjkxYzQ2Y2QwMDQ2NWIxNmU0NzgyZDY0MzcwYTY1Y2ZhNmRjNDY5MHx7InJlbW90ZV9hZGRyZXNzIjoiMi44NS45MS40NSIsInJlcXVlc3RfaWQiOiJDM0UyOjJDQjk6NkY3MjM4OkQ4QjM5Mzo1QUYyMTY3QyIsInRpbWVzdGFtcCI6MTUyNTgxNDkxNCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_SELF_SERVE,MARKETPLACE_FREE_APPS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,MARKETPLACE_MOBILE_CI,MOBILE_COMMENT_ACTIONS">
 
@@ -76,15 +76,15 @@
   <meta http-equiv="x-pjax-version" content="d19cff1c84c8526c9d697e1ffd48fb48">
   
 
-      <link href="https://github.com/marcoumarcos/D3js-uk-political-donations/commits/master.atom" rel="alternate" title="Recent Commits to D3js-uk-political-donations:master" type="application/atom+xml">
+      <link href="https://github.com/ioniodi/D3js-uk-political-donations/commits/master.atom" rel="alternate" title="Recent Commits to D3js-uk-political-donations:master" type="application/atom+xml">
 
   <meta name="description" content="Contribute to D3js-uk-political-donations development by creating an account on GitHub.">
-  <meta name="go-import" content="github.com/marcoumarcos/D3js-uk-political-donations git https://github.com/marcoumarcos/D3js-uk-political-donations.git">
+  <meta name="go-import" content="github.com/ioniodi/D3js-uk-political-donations git https://github.com/ioniodi/D3js-uk-political-donations.git">
 
-  <meta name="octolytics-dimension-user_id" content="17272645" /><meta name="octolytics-dimension-user_login" content="marcoumarcos" /><meta name="octolytics-dimension-repository_id" content="124805667" /><meta name="octolytics-dimension-repository_nwo" content="marcoumarcos/D3js-uk-political-donations" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="103428448" /><meta name="octolytics-dimension-repository_parent_nwo" content="ioniodi/D3js-uk-political-donations" /><meta name="octolytics-dimension-repository_network_root_id" content="103428448" /><meta name="octolytics-dimension-repository_network_root_nwo" content="ioniodi/D3js-uk-political-donations" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="10490779" /><meta name="octolytics-dimension-user_login" content="ioniodi" /><meta name="octolytics-dimension-repository_id" content="103428448" /><meta name="octolytics-dimension-repository_nwo" content="ioniodi/D3js-uk-political-donations" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="103428448" /><meta name="octolytics-dimension-repository_network_root_nwo" content="ioniodi/D3js-uk-political-donations" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/marcoumarcos/D3js-uk-political-donations/blob/master/style.css" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/ioniodi/D3js-uk-political-donations/blob/master/style.css" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -133,9 +133,9 @@
       <div class="d-flex">
             <div class="">
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="124805667" data-scoped-search-url="/marcoumarcos/D3js-uk-political-donations/search" data-unscoped-search-url="/search" action="/marcoumarcos/D3js-uk-political-donations/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="103428448" data-scoped-search-url="/ioniodi/D3js-uk-political-donations/search" data-unscoped-search-url="/search" action="/ioniodi/D3js-uk-political-donations/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
     <label class="form-control header-search-wrapper  js-chromeless-input-container">
-          <a class="header-search-scope no-underline" href="/marcoumarcos/D3js-uk-political-donations/blob/master/style.css">This repository</a>
+          <a class="header-search-scope no-underline" href="/ioniodi/D3js-uk-political-donations/blob/master/style.css">This repository</a>
       <input type="text"
         class="form-control header-search-input  js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s,/"
@@ -212,6 +212,13 @@
 
 
 
+  <div class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="ioniodi/D3js-uk-political-donations">This repository</span>
+  </div>
+    <a class="dropdown-item" href="/ioniodi/D3js-uk-political-donations/issues/new" data-ga-click="Header, create new issue">
+      New issue
+    </a>
 
       </ul>
     </details>
@@ -252,7 +259,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ML7G5wXSnwEUAMV30r/V3dBSFI4fHDbQ7KxMDSO92ngaEHfQ/aKBuv2V23W3vQICaom0Xfe/amhd14Dw3RPqjg==" />
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="rv/KIYbuUQwQbALiFV8K/bnuGL9Y2FHQkgAgBojouK6EUXsWfp5Pt/n5HOBwXd0iAzW4bLB7DWgje+z7dkaIWA==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -264,7 +271,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="95FGZ41BLnHyc/7n5rgkt9i0trzGqShvT0U39f8zZi3dP/dQdTEwyhvm4OWDuvNoYm8Wby4KdNf+PvsIAZ1W2w==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="DBRFygqzHg3T0amG8iBdZLqfl0ltoNneucpkx/zOny8muvT98sMAtjpEt4SXIoq7AEQ3moUDhWYIsag6AmCv2Q==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -293,6 +300,8 @@
 
 
 
+  
+
 
 
   <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
@@ -300,10 +309,10 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZY7gISpJ9Ujac4MAQL/zpX+aZ9yuINAJk0TBPiRCo15KkSMQLrvB0fsqu7oZl1drls+/Txuo66v9QRtTWoPLug==" />      <input type="hidden" name="repository_id" id="repository_id" value="124805667" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="E0FeFfwjspnJ4wijvSqJeLT9UP00uY/G+xk1oPnRf0M8Xp0k+NGGAOi6MBnkAi22XaiIboExtGSVHO/NhxAXpw==" />      <input type="hidden" name="repository_id" id="repository_id" value="103428448" class="form-control" />
 
         <div class="select-menu js-menu-container js-select-menu">
-          <a href="/marcoumarcos/D3js-uk-political-donations/subscription"
+          <a href="/ioniodi/D3js-uk-political-donations/subscription"
             class="btn btn-sm btn-with-count select-menu-button js-menu-target"
             role="button"
             aria-haspopup="true"
@@ -312,13 +321,13 @@
             data-ga-click="Repository, click Watch settings, action:blob#show">
             <span class="js-select-button">
                 <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
-                Unwatch
+                Watch
             </span>
           </a>
           <a class="social-count js-social-count"
-            href="/marcoumarcos/D3js-uk-political-donations/watchers"
-            aria-label="1 user is watching this repository">
-            1
+            href="/ioniodi/D3js-uk-political-donations/watchers"
+            aria-label="3 users are watching this repository">
+            3
           </a>
 
         <div class="select-menu-modal-holder">
@@ -330,10 +339,10 @@
 
               <div class="select-menu-list js-navigation-container" role="menu">
 
-                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                <div class="select-menu-item js-navigation-item selected" role="menuitem" tabindex="0">
                   <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
                   <div class="select-menu-item-text">
-                    <input type="radio" name="do" id="do_included" value="included" />
+                    <input type="radio" name="do" id="do_included" value="included" checked="checked" />
                     <span class="select-menu-item-heading">Not watching</span>
                     <span class="description">Be notified when participating or @mentioned.</span>
                     <span class="js-select-button-text hidden-select-button-text">
@@ -343,10 +352,10 @@
                   </div>
                 </div>
 
-                <div class="select-menu-item js-navigation-item selected" role="menuitem" tabindex="0">
+                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
                   <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
                   <div class="select-menu-item-text">
-                    <input type="radio" name="do" id="do_subscribed" value="subscribed" checked="checked" />
+                    <input type="radio" name="do" id="do_subscribed" value="subscribed" />
                     <span class="select-menu-item-heading">Watching</span>
                     <span class="description">Be notified of all conversations.</span>
                     <span class="js-select-button-text hidden-select-button-text">
@@ -380,32 +389,32 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/marcoumarcos/D3js-uk-political-donations/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3oNq74OQycskpyv7XA0O2QXsWnSoRNkg8SV//bTLO+yxNtsYa2T1ys15fIugeUN/D1Z6AtKkjQjoCkhGaAaEcw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/ioniodi/D3js-uk-political-donations/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="U2Mea2CRFP4AUsZ1zSlzHBdEdU0Ebt2jgZYuepWm6gFIh0axhXMM/r+XBI0NTchvHaUuzUmLOMskU0e+IEmNNA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar marcoumarcos/D3js-uk-political-donations"
+        aria-label="Unstar this repository" title="Unstar ioniodi/D3js-uk-political-donations"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/marcoumarcos/D3js-uk-political-donations/stargazers"
+        <a class="social-count js-social-count" href="/ioniodi/D3js-uk-political-donations/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/marcoumarcos/D3js-uk-political-donations/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="MJk0FZsj3d8qnGd2wLy3bx9kF6t1FpABIiUfjFMpCBlJIUXpmsoI7ZV57wkJ7FHKnYvj1VkmjDtXBL2wwVyhbQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/ioniodi/D3js-uk-political-donations/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="UWvDAIbJmtSzfLxLidvJPQ8idxbp0TqTnvCZ9b1KuQT7BXzuHpDVmbdPXyO1Ux6O+QtapsuGro6ScygEUBSeRA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star marcoumarcos/D3js-uk-political-donations"
+        aria-label="Star this repository" title="Star ioniodi/D3js-uk-political-donations"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
         Star
       </button>
-        <a class="social-count js-social-count" href="/marcoumarcos/D3js-uk-political-donations/stargazers"
+        <a class="social-count js-social-count" href="/ioniodi/D3js-uk-political-donations/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
@@ -414,18 +423,18 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/marcoumarcos/D3js-uk-political-donations/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="d6n0JBNNvKRddUUxIEAfRw3fAGw8tkpKAOb5CmMxcsn4AQZxTPZWISqj7M3GVKYF//yN2bJd9cwVAUqsQ10how==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/ioniodi/D3js-uk-political-donations/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2KoWnj8sbUqywMOCOfdJpufwn/Bn7pZZjQDEhxSmnE5GZGG7dY3cFlg5MEMul6meUu/wNqPizGGin+uv9o4T9Q==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
                 data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
-                title="Fork your own copy of marcoumarcos/D3js-uk-political-donations to your account"
-                aria-label="Fork your own copy of marcoumarcos/D3js-uk-political-donations to your account">
+                title="Fork your own copy of ioniodi/D3js-uk-political-donations to your account"
+                aria-label="Fork your own copy of ioniodi/D3js-uk-political-donations to your account">
               <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
             </button>
 </form>
-    <a href="/marcoumarcos/D3js-uk-political-donations/network" class="social-count"
+    <a href="/ioniodi/D3js-uk-political-donations/network" class="social-count"
        aria-label="126 users forked this repository">
       126
     </a>
@@ -433,14 +442,11 @@
 </ul>
 
       <h1 class="public ">
-  <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-  <span class="author" itemprop="author"><a class="url fn" rel="author" href="/marcoumarcos">marcoumarcos</a></span><!--
+  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" href="/ioniodi">ioniodi</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/marcoumarcos/D3js-uk-political-donations">D3js-uk-political-donations</a></strong>
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/ioniodi/D3js-uk-political-donations">D3js-uk-political-donations</a></strong>
 
-    <span class="fork-flag">
-      <span class="text">forked from <a href="/ioniodi/D3js-uk-political-donations">ioniodi/D3js-uk-political-donations</a></span>
-    </span>
 </h1>
 
     </div>
@@ -452,39 +458,43 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /marcoumarcos/D3js-uk-political-donations/tree/master" href="/marcoumarcos/D3js-uk-political-donations/tree/master">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /ioniodi/D3js-uk-political-donations" href="/ioniodi/D3js-uk-political-donations">
       <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /ioniodi/D3js-uk-political-donations/issues" href="/ioniodi/D3js-uk-political-donations/issues">
+        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">3</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /marcoumarcos/D3js-uk-political-donations/pulls" href="/marcoumarcos/D3js-uk-political-donations/pulls">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /ioniodi/D3js-uk-political-donations/pulls" href="/ioniodi/D3js-uk-political-donations/pulls">
       <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
-      <span class="Counter">0</span>
+      <span class="Counter">2</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
-    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /marcoumarcos/D3js-uk-political-donations/projects" href="/marcoumarcos/D3js-uk-political-donations/projects">
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /ioniodi/D3js-uk-political-donations/projects" href="/ioniodi/D3js-uk-political-donations/projects">
       <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
       Projects
       <span class="Counter" >0</span>
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /marcoumarcos/D3js-uk-political-donations/wiki" href="/marcoumarcos/D3js-uk-political-donations/wiki">
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /ioniodi/D3js-uk-political-donations/wiki" href="/ioniodi/D3js-uk-political-donations/wiki">
       <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
       Wiki
 </a>
 
-  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /marcoumarcos/D3js-uk-political-donations/pulse" href="/marcoumarcos/D3js-uk-political-donations/pulse">
+  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /ioniodi/D3js-uk-political-donations/pulse" href="/ioniodi/D3js-uk-political-donations/pulse">
     <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
     Insights
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor /marcoumarcos/D3js-uk-political-donations/settings" href="/marcoumarcos/D3js-uk-political-donations/settings">
-      <svg class="octicon octicon-gear" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg>
-      Settings
-</a>
+
 </nav>
 
 
@@ -494,9 +504,9 @@
   <div class="repository-content ">
 
     
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/marcoumarcos/D3js-uk-political-donations/blob/b4693c8269a075ad52dfc3c19bc896aedff99b98/style.css">Permalink</a>
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ioniodi/D3js-uk-political-donations/blob/29356e9b57e433155d4978b36b2eaa3b47ac74a2/style.css">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:305d7c4a90983a0fb56e0d2138490db2 -->
+  <!-- blob contrib key: blob_contributors:v21:87f5ed1b92640b3b2e74fcb1ccb3d8f6 -->
 
   <div class="file-navigation">
     
@@ -518,12 +528,12 @@
 
       <div class="select-menu-filters">
         <div class="select-menu-text-filter">
-          <input type="text" aria-label="Find or create a branch…" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Find or create a branch…">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
         </div>
         <div class="select-menu-tabs">
           <ul>
             <li class="select-menu-tab">
-              <a href="#" data-tab-filter="branches" data-filter-placeholder="Find or create a branch…" class="js-select-menu-tab" role="tab">Branches</a>
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
             </li>
             <li class="select-menu-tab">
               <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
@@ -537,38 +547,8 @@
         <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
 
 
-            <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/marcoumarcos/D3js-uk-political-donations/blob/Develop/style.css"
-               data-name="Develop"
-               data-skip-pjax="true"
-               rel="nofollow">
-              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
-              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
-                Develop
-              </span>
-            </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/marcoumarcos/D3js-uk-political-donations/blob/develop/style.css"
-               data-name="develop"
-               data-skip-pjax="true"
-               rel="nofollow">
-              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
-              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
-                develop
-              </span>
-            </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/marcoumarcos/D3js-uk-political-donations/blob/gh-pages/style.css"
-               data-name="gh-pages"
-               data-skip-pjax="true"
-               rel="nofollow">
-              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
-              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
-                gh-pages
-              </span>
-            </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/marcoumarcos/D3js-uk-political-donations/blob/master/style.css"
+               href="/ioniodi/D3js-uk-political-donations/blob/master/style.css"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -577,18 +557,19 @@
                 master
               </span>
             </a>
+            <a class="select-menu-item js-navigation-item js-navigation-open "
+               href="/ioniodi/D3js-uk-political-donations/blob/revert-215-develop2/style.css"
+               data-name="revert-215-develop2"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                revert-215-develop2
+              </span>
+            </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" action="/marcoumarcos/D3js-uk-political-donations/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="8bgiao4vedbnjNYpdVXJOZY2tnlVsoIzZIhewbj9WWpSrj5DZGoyGh4nAIc8KjErl5CmAILcRkf4Pws5s+x6vA==" />
-          <svg class="octicon octicon-git-branch select-menu-item-icon" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-            <div class="select-menu-item-text">
-              <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
-              <span class="description">from ‘master’</span>
-            </div>
-            <input type="hidden" name="name" id="name" class="js-new-item-value">
-            <input type="hidden" name="branch" id="branch" value="master">
-            <input type="hidden" name="path" id="path" value="style.css">
-</form>
+          <div class="select-menu-no-results">Nothing to show</div>
       </div>
 
       <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
@@ -605,7 +586,7 @@
 </div>
 
     <div class="BtnGroup float-right">
-      <a href="/marcoumarcos/D3js-uk-political-donations/find/master"
+      <a href="/ioniodi/D3js-uk-political-donations/find/master"
             class="js-pjax-capture-input btn btn-sm BtnGroup-item"
             data-pjax
             data-hotkey="t">
@@ -616,12 +597,12 @@
       </clipboard-copy>
     </div>
     <div id="blob-path" class="breadcrumb">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/marcoumarcos/D3js-uk-political-donations/tree/master"><span>D3js-uk-political-donations</span></a></span></span><span class="separator">/</span><strong class="final-path">style.css</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/ioniodi/D3js-uk-political-donations"><span>D3js-uk-political-donations</span></a></span></span><span class="separator">/</span><strong class="final-path">style.css</strong>
     </div>
   </div>
 
 
-  <include-fragment src="/marcoumarcos/D3js-uk-political-donations/contributors/master/style.css" class="commit-tease">
+  <include-fragment src="/ioniodi/D3js-uk-political-donations/contributors/master/style.css" class="commit-tease">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -638,9 +619,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/marcoumarcos/D3js-uk-political-donations/raw/master/style.css">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/marcoumarcos/D3js-uk-political-donations/blame/master/style.css">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/marcoumarcos/D3js-uk-political-donations/commits/master/style.css">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/ioniodi/D3js-uk-political-donations/raw/master/style.css">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/ioniodi/D3js-uk-political-donations/blame/master/style.css">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/ioniodi/D3js-uk-political-donations/commits/master/style.css">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -650,23 +631,23 @@
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/marcoumarcos/D3js-uk-political-donations/edit/master/style.css" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0696TamAFIT4pyT4N5VLSFIYe/pzXgukO3F5yAcxXRz4mq3OEOXEoALS9u4xsi43dRsmSFTrQtojgAC6S1DTMg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/ioniodi/D3js-uk-political-donations/edit/master/style.css" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="AL+pLL6boKMNFuWLESxjHvtc/+vUY/UfXDJ8xrhLKvH4s6NZWL2mchOt9//S+YEugnLd9uAXd662TKXmngvw3A==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-              aria-label="Edit this file" data-hotkey="e" data-disable-with>
+              aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/marcoumarcos/D3js-uk-political-donations/delete/master/style.css" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="9nrUAe4iTFr6UssTA2MSCjXsGJFYe6wzgIC0OlIdK1HXP0iP64I7IOVxZkQxI5kRVqxdYvgpMsTIHQRj4fAQHw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/ioniodi/D3js-uk-political-donations/delete/master/style.css" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SWGZmFLRBcZqBzGT/QzPmb71SpewoJjKWq6pO2aUuaTnXwTZQhQbs7OONjA2iBmOi0j65tNzUCzAsKvyL3r2SA==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-            aria-label="Delete this file" data-disable-with>
+            aria-label="Delete the file in your fork of this project" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
           </button>
 </form>  </div>
 
   <div class="file-info">
-      305 lines (285 sloc)
+      238 lines (225 sloc)
       <span class="file-info-divider"></span>
-    6.76 KB
+    5.56 KB
   </div>
 </div>
 
@@ -769,7 +750,7 @@
       </tr>
       <tr>
         <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#initial-content</span>, <span class="pl-e">#initial-content-pie</span>, <span class="pl-e">#a</span>, <span class="pl-e">#b</span>, <span class="pl-e">#c</span>, <span class="pl-e">#d</span>, <span class="pl-e">#e</span>, <span class="pl-e">#f</span>, <span class="pl-e">#a1</span>, <span class="pl-e">#b1</span>, <span class="pl-e">#c1</span>, <span class="pl-e">#d1</span>, <span class="pl-e">#e1</span>, <span class="pl-e">#view-party-type</span>, <span class="pl-e">#view-donor-type</span>, <span class="pl-e">#ana-enotita</span>, <span class="pl-e">#view-source-type</span>, <span class="pl-e">#partyInfo</span>, <span class="pl-e">#conservative</span>, <span class="pl-e">#labour</span>, <span class="pl-e">#libdem</span>, <span class="pl-e">#individual</span>, <span class="pl-e">#company</span>, <span class="pl-e">#union</span>, <span class="pl-e">#society</span>, <span class="pl-e">#other</span>, <span class="pl-e">#boreiou</span>, <span class="pl-e">#dytikou</span>, <span class="pl-e">#kentrikou</span>, <span class="pl-e">#notiou</span>, <span class="pl-e">#public-or-private-money</span>, <span class="pl-e">#public-or-private-money-split</span>, <span class="pl-e">#private-money</span>, <span class="pl-e">#public-money</span> {</td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#initial-content</span>, <span class="pl-e">#a</span>, <span class="pl-e">#b</span>, <span class="pl-e">#c</span>, <span class="pl-e">#d</span>, <span class="pl-e">#e</span>, <span class="pl-e">#f</span>, <span class="pl-e">#view-party-type</span>, <span class="pl-e">#view-donor-type</span>, <span class="pl-e">#view-source-type</span>, <span class="pl-e">#partyInfo</span>, <span class="pl-e">#conservative</span>, <span class="pl-e">#labour</span>, <span class="pl-e">#libdem</span>, <span class="pl-e">#individual</span>, <span class="pl-e">#company</span>, <span class="pl-e">#union</span>, <span class="pl-e">#society</span>, <span class="pl-e">#other</span>, <span class="pl-e">#public-or-private-money</span>, <span class="pl-e">#public-or-private-money-split</span>, <span class="pl-e">#private-money</span>, <span class="pl-e">#public-money</span> { </td>
       </tr>
       <tr>
         <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
@@ -790,7 +771,7 @@
       </tr>
       <tr>
         <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#view-party-type</span>, <span class="pl-e">#view-donor-type</span>, <span class="pl-e">#ana-enotita</span>, <span class="pl-e">#view-source-type</span>, <span class="pl-e">#view-amount</span>, <span class="pl-e">#pie-chart</span>, <span class="pl-e">#initial-content-pie</span> {</td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#view-party-type</span>, <span class="pl-e">#view-donor-type</span>, <span class="pl-e">#view-source-type</span> {</td>
       </tr>
       <tr>
         <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
@@ -811,7 +792,7 @@
       </tr>
       <tr>
         <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#initial-content</span>, <span class="pl-e">#initial-content-pie</span>, <span class="pl-e">#view-source-type</span> {</td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#initial-content</span>, <span class="pl-e">#view-source-type</span> {</td>
       </tr>
       <tr>
         <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
@@ -942,7 +923,7 @@
       </tr>
       <tr>
         <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
-        <td id="LC66" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background</span></span>: <span class="pl-c1">rgba</span>(<span class="pl-c1">96</span>, <span class="pl-c1">232</span>, <span class="pl-c1">173</span>, <span class="pl-c1">0.5</span>);                 </td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background</span></span>: <span class="pl-c1">rgba</span>(<span class="pl-c1">8</span>, <span class="pl-c1">127</span>, <span class="pl-c1">189</span>, <span class="pl-c1">0.2</span>);</td>
       </tr>
       <tr>
         <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
@@ -958,7 +939,7 @@
       </tr>
       <tr>
         <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
-        <td id="LC70" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background</span></span>: <span class="pl-c1">rgba</span>(<span class="pl-c1">238</span>, <span class="pl-c1">202</span>, 	<span class="pl-c1">218</span>, <span class="pl-c1">0.5</span>);                 </td>
+        <td id="LC70" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background</span></span>: <span class="pl-c1">rgba</span>(<span class="pl-c1">240</span>, <span class="pl-c1">34</span>, <span class="pl-c1">51</span>, <span class="pl-c1">0.2</span>);</td>
       </tr>
       <tr>
         <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
@@ -974,7 +955,7 @@
       </tr>
       <tr>
         <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
-        <td id="LC74" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background</span></span>: <span class="pl-c1">rgba</span>(<span class="pl-c1">242</span>, <span class="pl-c1">97</span>, <span class="pl-c1">131</span>, <span class="pl-c1">0.5</span>);                </td>
+        <td id="LC74" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background</span></span>: <span class="pl-c1">rgba</span>(<span class="pl-c1">253</span>, <span class="pl-c1">187</span>, <span class="pl-c1">48</span>, <span class="pl-c1">0.2</span>);</td>
       </tr>
       <tr>
         <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
@@ -1019,55 +1000,55 @@
       </tr>
       <tr>
         <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
-        <td id="LC85" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#ana-enotita</span>{</td>
+        <td id="LC85" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#individual</span> {</td>
       </tr>
       <tr>
         <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
-        <td id="LC86" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">height</span></span>: <span class="pl-c1">100<span class="pl-k">%</span></span>;</td>
+        <td id="LC86" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">55<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
-        <td id="LC87" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">left</span></span>: <span class="pl-c1">500<span class="pl-k">px</span></span>;</td>
+        <td id="LC87" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
-        <td id="LC88" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">230<span class="pl-k">px</span></span>;</td>
+        <td id="LC88" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#company</span> {</td>
       </tr>
       <tr>
         <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
-        <td id="LC89" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC89" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">390<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
-        <td id="LC90" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#individual</span> {</td>
+        <td id="LC90" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
-        <td id="LC91" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">55<span class="pl-k">px</span></span>;</td>
+        <td id="LC91" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#union</span> {</td>
       </tr>
       <tr>
         <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
-        <td id="LC92" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC92" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">660<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L93" class="blob-num js-line-number" data-line-number="93"></td>
-        <td id="LC93" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#company</span> {</td>
+        <td id="LC93" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
-        <td id="LC94" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">390<span class="pl-k">px</span></span>;</td>
+        <td id="LC94" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#society</span> {</td>
       </tr>
       <tr>
         <td id="L95" class="blob-num js-line-number" data-line-number="95"></td>
-        <td id="LC95" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC95" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">205<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L96" class="blob-num js-line-number" data-line-number="96"></td>
-        <td id="LC96" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#union</span> {</td>
+        <td id="LC96" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">text-align</span></span>: <span class="pl-c1">right</span>;</td>
       </tr>
       <tr>
         <td id="L97" class="blob-num js-line-number" data-line-number="97"></td>
-        <td id="LC97" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">660<span class="pl-k">px</span></span>;</td>
+        <td id="LC97" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">right</span></span>: <span class="pl-c1">0</span>;</td>
       </tr>
       <tr>
         <td id="L98" class="blob-num js-line-number" data-line-number="98"></td>
@@ -1075,11 +1056,11 @@
       </tr>
       <tr>
         <td id="L99" class="blob-num js-line-number" data-line-number="99"></td>
-        <td id="LC99" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#society</span> {</td>
+        <td id="LC99" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#other</span> {</td>
       </tr>
       <tr>
         <td id="L100" class="blob-num js-line-number" data-line-number="100"></td>
-        <td id="LC100" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">205<span class="pl-k">px</span></span>;</td>
+        <td id="LC100" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">530<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L101" class="blob-num js-line-number" data-line-number="101"></td>
@@ -1087,7 +1068,7 @@
       </tr>
       <tr>
         <td id="L102" class="blob-num js-line-number" data-line-number="102"></td>
-        <td id="LC102" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">right</span></span>: <span class="pl-c1">0</span>;</td>
+        <td id="LC102" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">right</span></span>: <span class="pl-c1">0</span></td>
       </tr>
       <tr>
         <td id="L103" class="blob-num js-line-number" data-line-number="103"></td>
@@ -1095,216 +1076,216 @@
       </tr>
       <tr>
         <td id="L104" class="blob-num js-line-number" data-line-number="104"></td>
-        <td id="LC104" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#other</span> {</td>
+        <td id="LC104" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L105" class="blob-num js-line-number" data-line-number="105"></td>
-        <td id="LC105" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">530<span class="pl-k">px</span></span>;</td>
+        <td id="LC105" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span> Value scale <span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L106" class="blob-num js-line-number" data-line-number="106"></td>
-        <td id="LC106" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">text-align</span></span>: <span class="pl-c1">right</span>;</td>
+        <td id="LC106" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L107" class="blob-num js-line-number" data-line-number="107"></td>
-        <td id="LC107" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">right</span></span>: <span class="pl-c1">0</span></td>
+        <td id="LC107" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#value-scale</span> {</td>
       </tr>
       <tr>
         <td id="L108" class="blob-num js-line-number" data-line-number="108"></td>
-        <td id="LC108" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC108" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">opacity</span></span>: <span class="pl-c1">0.5</span>;</td>
       </tr>
       <tr>
         <td id="L109" class="blob-num js-line-number" data-line-number="109"></td>
-        <td id="LC109" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC109" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">font-size</span></span>: <span class="pl-c1">0.75<span class="pl-k">em</span></span>;</td>
       </tr>
       <tr>
         <td id="L110" class="blob-num js-line-number" data-line-number="110"></td>
-        <td id="LC110" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#boreiou</span> {</td>
+        <td id="LC110" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L111" class="blob-num js-line-number" data-line-number="111"></td>
-        <td id="LC111" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">55<span class="pl-k">px</span></span>;</td>
+        <td id="LC111" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#a</span>, <span class="pl-e">#b</span>, <span class="pl-e">#c</span>, <span class="pl-e">#d</span>, <span class="pl-e">#e</span> { <span class="pl-c1"><span class="pl-c1">left</span></span>: <span class="pl-c1">40<span class="pl-k">px</span></span>; }</td>
       </tr>
       <tr>
         <td id="L112" class="blob-num js-line-number" data-line-number="112"></td>
-        <td id="LC112" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC112" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#a</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">635<span class="pl-k">px</span></span>;}</td>
       </tr>
       <tr>
         <td id="L113" class="blob-num js-line-number" data-line-number="113"></td>
-        <td id="LC113" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#dytikou</span> {</td>
+        <td id="LC113" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#b</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">585<span class="pl-k">px</span></span>;}</td>
       </tr>
       <tr>
         <td id="L114" class="blob-num js-line-number" data-line-number="114"></td>
-        <td id="LC114" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">390<span class="pl-k">px</span></span>;</td>
+        <td id="LC114" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#c</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">535<span class="pl-k">px</span></span>;}</td>
       </tr>
       <tr>
         <td id="L115" class="blob-num js-line-number" data-line-number="115"></td>
-        <td id="LC115" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC115" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#d</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">485<span class="pl-k">px</span></span>;}</td>
       </tr>
       <tr>
         <td id="L116" class="blob-num js-line-number" data-line-number="116"></td>
-        <td id="LC116" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#kentrikou</span> {</td>
+        <td id="LC116" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#e</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">435<span class="pl-k">px</span></span>;}</td>
       </tr>
       <tr>
         <td id="L117" class="blob-num js-line-number" data-line-number="117"></td>
-        <td id="LC117" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">205<span class="pl-k">px</span></span>;</td>
+        <td id="LC117" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#f</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">648<span class="pl-k">px</span></span>; <span class="pl-c1"><span class="pl-c1">left</span></span>: <span class="pl-c1">575<span class="pl-k">px</span></span>; }</td>
       </tr>
       <tr>
         <td id="L118" class="blob-num js-line-number" data-line-number="118"></td>
-        <td id="LC118" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">text-align</span></span>: <span class="pl-c1">right</span>;</td>
+        <td id="LC118" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L119" class="blob-num js-line-number" data-line-number="119"></td>
-        <td id="LC119" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">right</span></span>: <span class="pl-c1">0</span>;</td>
+        <td id="LC119" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span> End of view <span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L120" class="blob-num js-line-number" data-line-number="120"></td>
-        <td id="LC120" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC120" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L121" class="blob-num js-line-number" data-line-number="121"></td>
-        <td id="LC121" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#notiou</span> {</td>
+        <td id="LC121" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">circle</span> {</td>
       </tr>
       <tr>
         <td id="L122" class="blob-num js-line-number" data-line-number="122"></td>
-        <td id="LC122" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">530<span class="pl-k">px</span></span>;</td>
+        <td id="LC122" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">stroke</span></span>: <span class="pl-c1">rgba</span>(<span class="pl-c1">238</span>, <span class="pl-c1">238</span>, <span class="pl-c1">238</span>, <span class="pl-c1">1</span>);</td>
       </tr>
       <tr>
         <td id="L123" class="blob-num js-line-number" data-line-number="123"></td>
-        <td id="LC123" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">text-align</span></span>: <span class="pl-c1">right</span>;</td>
+        <td id="LC123" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">stroke-width</span></span>: <span class="pl-c1">0.5</span>;</td>
       </tr>
       <tr>
         <td id="L124" class="blob-num js-line-number" data-line-number="124"></td>
-        <td id="LC124" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">right</span></span>: <span class="pl-c1">0</span></td>
+        <td id="LC124" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L125" class="blob-num js-line-number" data-line-number="125"></td>
-        <td id="LC125" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC125" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">circle</span><span class="pl-e">.active</span> {</td>
       </tr>
       <tr>
         <td id="L126" class="blob-num js-line-number" data-line-number="126"></td>
-        <td id="LC126" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC126" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">stroke</span></span>: <span class="pl-c1">rgba</span>(<span class="pl-c1">17</span>, <span class="pl-c1">17</span>, <span class="pl-c1">17</span>, <span class="pl-c1">0.8</span>);</td>
       </tr>
       <tr>
         <td id="L127" class="blob-num js-line-number" data-line-number="127"></td>
-        <td id="LC127" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC127" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">stroke-width</span></span>: <span class="pl-c1">5</span>;</td>
       </tr>
       <tr>
         <td id="L128" class="blob-num js-line-number" data-line-number="128"></td>
-        <td id="LC128" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span> Amount splits <span class="pl-c">*/</span></span></td>
+        <td id="LC128" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L129" class="blob-num js-line-number" data-line-number="129"></td>
-        <td id="LC129" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#view-amount</span> {</td>
+        <td id="LC129" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L130" class="blob-num js-line-number" data-line-number="130"></td>
-        <td id="LC130" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">140<span class="pl-k">px</span></span>;</td>
+        <td id="LC130" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.legend</span> <span class="pl-ent">circle</span> {</td>
       </tr>
       <tr>
         <td id="L131" class="blob-num js-line-number" data-line-number="131"></td>
-        <td id="LC131" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">left</span></span>: <span class="pl-c1">500<span class="pl-k">px</span></span>;</td>
+        <td id="LC131" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">stroke</span></span>: <span class="pl-c1">#aabbcc</span>;</td>
       </tr>
       <tr>
         <td id="L132" class="blob-num js-line-number" data-line-number="132"></td>
-        <td id="LC132" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">370<span class="pl-k">px</span></span>;  </td>
+        <td id="LC132" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">stroke-width</span></span>: <span class="pl-c1">1</span>;</td>
       </tr>
       <tr>
         <td id="L133" class="blob-num js-line-number" data-line-number="133"></td>
-        <td id="LC133" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC133" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">none</span>;</td>
       </tr>
       <tr>
         <td id="L134" class="blob-num js-line-number" data-line-number="134"></td>
-        <td id="LC134" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#splitone</span> {</td>
+        <td id="LC134" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L135" class="blob-num js-line-number" data-line-number="135"></td>
-        <td id="LC135" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span>;</td>
+        <td id="LC135" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.tooltip</span> {</td>
       </tr>
       <tr>
         <td id="L136" class="blob-num js-line-number" data-line-number="136"></td>
-        <td id="LC136" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">position</span></span>: <span class="pl-c1">absolute</span>;</td>
+        <td id="LC136" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">margin</span></span>: <span class="pl-c1">0</span>;</td>
       </tr>
       <tr>
         <td id="L137" class="blob-num js-line-number" data-line-number="137"></td>
-        <td id="LC137" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">700<span class="pl-k">px</span></span>;</td>
+        <td id="LC137" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">padding</span></span>: <span class="pl-c1">5<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L138" class="blob-num js-line-number" data-line-number="138"></td>
-        <td id="LC138" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">left</span></span>: <span class="pl-c1">750<span class="pl-k">px</span></span>;</td>
+        <td id="LC138" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">line-height</span></span>: <span class="pl-c1">1.4</span>;</td>
       </tr>
       <tr>
         <td id="L139" class="blob-num js-line-number" data-line-number="139"></td>
-        <td id="LC139" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">93<span class="pl-k">px</span></span>;</td>
+        <td id="LC139" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">display</span></span>: <span class="pl-c1">none</span>;</td>
       </tr>
       <tr>
         <td id="L140" class="blob-num js-line-number" data-line-number="140"></td>
-        <td id="LC140" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC140" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">height</span></span>: <span class="pl-c1">125<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L141" class="blob-num js-line-number" data-line-number="141"></td>
-        <td id="LC141" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC141" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">280<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L142" class="blob-num js-line-number" data-line-number="142"></td>
-        <td id="LC142" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#splittwo</span> {</td>
+        <td id="LC142" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">text-align</span></span>: <span class="pl-c1">left</span>;</td>
       </tr>
       <tr>
         <td id="L143" class="blob-num js-line-number" data-line-number="143"></td>
-        <td id="LC143" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span>;</td>
+        <td id="LC143" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">border</span></span>: <span class="pl-c1">4<span class="pl-k">px</span></span> <span class="pl-c1">solid</span> <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">.8</span>);</td>
       </tr>
       <tr>
         <td id="L144" class="blob-num js-line-number" data-line-number="144"></td>
-        <td id="LC144" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">position</span></span>: <span class="pl-c1">absolute</span>;</td>
+        <td id="LC144" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">border-radius</span></span>: <span class="pl-c1">2<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L145" class="blob-num js-line-number" data-line-number="145"></td>
-        <td id="LC145" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">800<span class="pl-k">px</span></span>;</td>
+        <td id="LC145" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-moz-box-shadow</span></span>: <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">2<span class="pl-k">px</span></span> <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.5</span>);</td>
       </tr>
       <tr>
         <td id="L146" class="blob-num js-line-number" data-line-number="146"></td>
-        <td id="LC146" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">left</span></span>: <span class="pl-c1">150<span class="pl-k">px</span></span>;</td>
+        <td id="LC146" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-webkit-box-shadow</span></span>: <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">2<span class="pl-k">px</span></span> <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.5</span>);</td>
       </tr>
       <tr>
         <td id="L147" class="blob-num js-line-number" data-line-number="147"></td>
-        <td id="LC147" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">93<span class="pl-k">px</span></span>;</td>
+        <td id="LC147" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">box-shadow</span></span>: <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">2<span class="pl-k">px</span></span> <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.5</span>);</td>
       </tr>
       <tr>
         <td id="L148" class="blob-num js-line-number" data-line-number="148"></td>
-        <td id="LC148" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC148" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-color</span></span>: <span class="pl-c1">rgba</span>(<span class="pl-c1">255</span>, <span class="pl-c1">255</span>, <span class="pl-c1">255</span>, <span class="pl-c1">1</span>);</td>
       </tr>
       <tr>
         <td id="L149" class="blob-num js-line-number" data-line-number="149"></td>
-        <td id="LC149" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC149" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">position</span></span>: <span class="pl-c1">absolute</span>;</td>
       </tr>
       <tr>
         <td id="L150" class="blob-num js-line-number" data-line-number="150"></td>
-        <td id="LC150" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#splitthree</span> {</td>
+        <td id="LC150" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L151" class="blob-num js-line-number" data-line-number="151"></td>
-        <td id="LC151" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span>;</td>
+        <td id="LC151" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.tooltip</span> <span class="pl-ent">p</span>, <span class="pl-ent">h3</span> {</td>
       </tr>
       <tr>
         <td id="L152" class="blob-num js-line-number" data-line-number="152"></td>
-        <td id="LC152" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">position</span></span>: <span class="pl-c1">absolute</span>;</td>
+        <td id="LC152" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">margin</span></span>: <span class="pl-c1">0.2<span class="pl-k">em</span></span>;</td>
       </tr>
       <tr>
         <td id="L153" class="blob-num js-line-number" data-line-number="153"></td>
-        <td id="LC153" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">250<span class="pl-k">px</span></span>;</td>
+        <td id="LC153" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L154" class="blob-num js-line-number" data-line-number="154"></td>
-        <td id="LC154" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">left</span></span>: <span class="pl-c1">750<span class="pl-k">px</span></span>;</td>
+        <td id="LC154" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.lab</span> {</td>
       </tr>
       <tr>
         <td id="L155" class="blob-num js-line-number" data-line-number="155"></td>
-        <td id="LC155" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">93<span class="pl-k">px</span></span>;</td>
+        <td id="LC155" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">#F02233</span>;</td>
       </tr>
       <tr>
         <td id="L156" class="blob-num js-line-number" data-line-number="156"></td>
@@ -1312,269 +1293,263 @@
       </tr>
       <tr>
         <td id="L157" class="blob-num js-line-number" data-line-number="157"></td>
-        <td id="LC157" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC157" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.lib</span> {</td>
       </tr>
       <tr>
         <td id="L158" class="blob-num js-line-number" data-line-number="158"></td>
-        <td id="LC158" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#splitfour</span> {</td>
+        <td id="LC158" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">#FDBB30</span>;</td>
       </tr>
       <tr>
         <td id="L159" class="blob-num js-line-number" data-line-number="159"></td>
-        <td id="LC159" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">font-weight</span></span>: <span class="pl-c1">bold</span>;</td>
+        <td id="LC159" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L160" class="blob-num js-line-number" data-line-number="160"></td>
-        <td id="LC160" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">position</span></span>: <span class="pl-c1">absolute</span>;</td>
+        <td id="LC160" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.con</span> {</td>
       </tr>
       <tr>
         <td id="L161" class="blob-num js-line-number" data-line-number="161"></td>
-        <td id="LC161" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">200<span class="pl-k">px</span></span>;</td>
+        <td id="LC161" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">#087FBD</span>;</td>
       </tr>
       <tr>
         <td id="L162" class="blob-num js-line-number" data-line-number="162"></td>
-        <td id="LC162" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">left</span></span>: <span class="pl-c1">200<span class="pl-k">px</span></span>;</td>
+        <td id="LC162" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L163" class="blob-num js-line-number" data-line-number="163"></td>
-        <td id="LC163" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">93<span class="pl-k">px</span></span>;</td>
+        <td id="LC163" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.snp</span> {</td>
       </tr>
       <tr>
         <td id="L164" class="blob-num js-line-number" data-line-number="164"></td>
-        <td id="LC164" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC164" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">#C9C945</span>;</td>
       </tr>
       <tr>
         <td id="L165" class="blob-num js-line-number" data-line-number="165"></td>
-        <td id="LC165" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC165" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L166" class="blob-num js-line-number" data-line-number="166"></td>
-        <td id="LC166" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span> Value scale <span class="pl-c">*/</span></span></td>
+        <td id="LC166" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>!</span></td>
       </tr>
       <tr>
         <td id="L167" class="blob-num js-line-number" data-line-number="167"></td>
-        <td id="LC167" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC167" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Pure v0.2.1</span></td>
       </tr>
       <tr>
         <td id="L168" class="blob-num js-line-number" data-line-number="168"></td>
-        <td id="LC168" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#value-scale</span> {</td>
+        <td id="LC168" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Copyright 2013 Yahoo! Inc. All rights reserved.</span></td>
       </tr>
       <tr>
         <td id="L169" class="blob-num js-line-number" data-line-number="169"></td>
-        <td id="LC169" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">opacity</span></span>: <span class="pl-c1">0.5</span>;</td>
+        <td id="LC169" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Licensed under the BSD License.</span></td>
       </tr>
       <tr>
         <td id="L170" class="blob-num js-line-number" data-line-number="170"></td>
-        <td id="LC170" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">font-size</span></span>: <span class="pl-c1">0.75<span class="pl-k">em</span></span>;</td>
+        <td id="LC170" class="blob-code blob-code-inner js-file-line"><span class="pl-c">https://github.com/yui/pure/blob/master/LICENSE.md</span></td>
       </tr>
       <tr>
         <td id="L171" class="blob-num js-line-number" data-line-number="171"></td>
-        <td id="LC171" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC171" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L172" class="blob-num js-line-number" data-line-number="172"></td>
-        <td id="LC172" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#a</span>, <span class="pl-e">#b</span>, <span class="pl-e">#c</span>, <span class="pl-e">#d</span>, <span class="pl-e">#e</span>, <span class="pl-e">#a1</span>, <span class="pl-e">#b1</span>, <span class="pl-e">#c1</span>, <span class="pl-e">#d1</span>, <span class="pl-e">#e1</span> { <span class="pl-c1"><span class="pl-c1">left</span></span>: <span class="pl-c1">40<span class="pl-k">px</span></span>; }</td>
+        <td id="LC172" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.pure-button</span> {</td>
       </tr>
       <tr>
         <td id="L173" class="blob-num js-line-number" data-line-number="173"></td>
-        <td id="LC173" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#a</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">635<span class="pl-k">px</span></span>;}</td>
+        <td id="LC173" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span> Structure <span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L174" class="blob-num js-line-number" data-line-number="174"></td>
-        <td id="LC174" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#b</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">585<span class="pl-k">px</span></span>;}</td>
+        <td id="LC174" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">display</span></span>: <span class="pl-c1">inline-block</span>;</td>
       </tr>
       <tr>
         <td id="L175" class="blob-num js-line-number" data-line-number="175"></td>
-        <td id="LC175" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#c</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">535<span class="pl-k">px</span></span>;}</td>
+        <td id="LC175" class="blob-code blob-code-inner js-file-line">    *<span class="pl-c1"><span class="pl-c1">display</span></span>: <span class="pl-c1">inline</span>;</td>
       </tr>
       <tr>
         <td id="L176" class="blob-num js-line-number" data-line-number="176"></td>
-        <td id="LC176" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#d</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">485<span class="pl-k">px</span></span>;}</td>
+        <td id="LC176" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span>IE 6/7<span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L177" class="blob-num js-line-number" data-line-number="177"></td>
-        <td id="LC177" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#e</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">435<span class="pl-k">px</span></span>;}</td>
+        <td id="LC177" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">zoom</span></span>: <span class="pl-c1">1</span>;</td>
       </tr>
       <tr>
         <td id="L178" class="blob-num js-line-number" data-line-number="178"></td>
-        <td id="LC178" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#f</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">648<span class="pl-k">px</span></span>; <span class="pl-c1"><span class="pl-c1">left</span></span>: <span class="pl-c1">575<span class="pl-k">px</span></span>; }</td>
+        <td id="LC178" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">line-height</span></span>: <span class="pl-c1">normal</span>;</td>
       </tr>
       <tr>
         <td id="L179" class="blob-num js-line-number" data-line-number="179"></td>
-        <td id="LC179" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#a1</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">700<span class="pl-k">px</span></span>;}</td>
+        <td id="LC179" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">white-space</span></span>: <span class="pl-c1">nowrap</span>;</td>
       </tr>
       <tr>
         <td id="L180" class="blob-num js-line-number" data-line-number="180"></td>
-        <td id="LC180" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#b1</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">585<span class="pl-k">px</span></span>;}</td>
+        <td id="LC180" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">vertical-align</span></span>: <span class="pl-c1">baseline</span>;</td>
       </tr>
       <tr>
         <td id="L181" class="blob-num js-line-number" data-line-number="181"></td>
-        <td id="LC181" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#c1</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">445<span class="pl-k">px</span></span>;}</td>
+        <td id="LC181" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">text-align</span></span>: <span class="pl-c1">center</span>;</td>
       </tr>
       <tr>
         <td id="L182" class="blob-num js-line-number" data-line-number="182"></td>
-        <td id="LC182" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#d1</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">305<span class="pl-k">px</span></span>;}</td>
+        <td id="LC182" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">cursor</span></span>: <span class="pl-c1">pointer</span>;</td>
       </tr>
       <tr>
         <td id="L183" class="blob-num js-line-number" data-line-number="183"></td>
-        <td id="LC183" class="blob-code blob-code-inner js-file-line"><span class="pl-e">#e1</span> { <span class="pl-c1"><span class="pl-c1">top</span></span>: <span class="pl-c1">185<span class="pl-k">px</span></span>;}</td>
+        <td id="LC183" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-webkit-user-drag</span></span>: <span class="pl-c1">none</span>;</td>
       </tr>
       <tr>
         <td id="L184" class="blob-num js-line-number" data-line-number="184"></td>
-        <td id="LC184" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC184" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-webkit-user-select</span></span>: <span class="pl-c1">none</span>;</td>
       </tr>
       <tr>
         <td id="L185" class="blob-num js-line-number" data-line-number="185"></td>
-        <td id="LC185" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span> End of view <span class="pl-c">*/</span></span></td>
+        <td id="LC185" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-moz-user-select</span></span>: <span class="pl-c1">none</span>;</td>
       </tr>
       <tr>
         <td id="L186" class="blob-num js-line-number" data-line-number="186"></td>
-        <td id="LC186" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC186" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-ms-user-select</span></span>: <span class="pl-c1">none</span>;</td>
       </tr>
       <tr>
         <td id="L187" class="blob-num js-line-number" data-line-number="187"></td>
-        <td id="LC187" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">circle</span> {</td>
+        <td id="LC187" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">user-select</span></span>: <span class="pl-c1">none</span>;</td>
       </tr>
       <tr>
         <td id="L188" class="blob-num js-line-number" data-line-number="188"></td>
-        <td id="LC188" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">stroke</span></span>: <span class="pl-c1">rgba</span>(<span class="pl-c1">238</span>, <span class="pl-c1">238</span>, <span class="pl-c1">238</span>, <span class="pl-c1">1</span>);</td>
+        <td id="LC188" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L189" class="blob-num js-line-number" data-line-number="189"></td>
-        <td id="LC189" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">stroke-width</span></span>: <span class="pl-c1">0.5</span>;</td>
+        <td id="LC189" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span> Firefox: Get rid of the inner focus border <span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L190" class="blob-num js-line-number" data-line-number="190"></td>
-        <td id="LC190" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC190" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.pure-button</span><span class="pl-e">::-moz-focus-inner</span> {</td>
       </tr>
       <tr>
         <td id="L191" class="blob-num js-line-number" data-line-number="191"></td>
-        <td id="LC191" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">circle</span><span class="pl-e">.active</span> {</td>
+        <td id="LC191" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">padding</span></span>: <span class="pl-c1">0</span>;</td>
       </tr>
       <tr>
         <td id="L192" class="blob-num js-line-number" data-line-number="192"></td>
-        <td id="LC192" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">stroke</span></span>: <span class="pl-c1">rgba</span>(<span class="pl-c1">17</span>, <span class="pl-c1">17</span>, <span class="pl-c1">17</span>, <span class="pl-c1">0.8</span>);</td>
+        <td id="LC192" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">border</span></span>: <span class="pl-c1">0</span>;</td>
       </tr>
       <tr>
         <td id="L193" class="blob-num js-line-number" data-line-number="193"></td>
-        <td id="LC193" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">stroke-width</span></span>: <span class="pl-c1">5</span>;</td>
+        <td id="LC193" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L194" class="blob-num js-line-number" data-line-number="194"></td>
-        <td id="LC194" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC194" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>csslint unqualified-attributes:false, outline-none:false<span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L195" class="blob-num js-line-number" data-line-number="195"></td>
-        <td id="LC195" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC195" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.pure-button</span> {</td>
       </tr>
       <tr>
         <td id="L196" class="blob-num js-line-number" data-line-number="196"></td>
-        <td id="LC196" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.legend</span> <span class="pl-ent">circle</span> {</td>
+        <td id="LC196" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">font-size</span></span>: <span class="pl-c1">100<span class="pl-k">%</span></span>;</td>
       </tr>
       <tr>
         <td id="L197" class="blob-num js-line-number" data-line-number="197"></td>
-        <td id="LC197" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">stroke</span></span>: <span class="pl-c1">#aabbcc</span>;</td>
+        <td id="LC197" class="blob-code blob-code-inner js-file-line">    *<span class="pl-c1"><span class="pl-c1">font-size</span></span>: <span class="pl-c1">90<span class="pl-k">%</span></span>;</td>
       </tr>
       <tr>
         <td id="L198" class="blob-num js-line-number" data-line-number="198"></td>
-        <td id="LC198" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">stroke-width</span></span>: <span class="pl-c1">1</span>;</td>
+        <td id="LC198" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span>IE 6/7 - To reduce IE&#39;s oversized button text<span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L199" class="blob-num js-line-number" data-line-number="199"></td>
-        <td id="LC199" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">none</span>;</td>
+        <td id="LC199" class="blob-code blob-code-inner js-file-line">    *<span class="pl-c1"><span class="pl-c1">overflow</span></span>: <span class="pl-c1">visible</span>;</td>
       </tr>
       <tr>
         <td id="L200" class="blob-num js-line-number" data-line-number="200"></td>
-        <td id="LC200" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC200" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span>IE 6/7 - Because of IE&#39;s overly large left/right padding on buttons <span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L201" class="blob-num js-line-number" data-line-number="201"></td>
-        <td id="LC201" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.tooltip</span> {</td>
+        <td id="LC201" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">padding</span></span>: <span class="pl-c1">0.5<span class="pl-k">em</span></span> <span class="pl-c1">1.5<span class="pl-k">em</span></span> <span class="pl-c1">0.5<span class="pl-k">em</span></span>;</td>
       </tr>
       <tr>
         <td id="L202" class="blob-num js-line-number" data-line-number="202"></td>
-        <td id="LC202" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">margin</span></span>: <span class="pl-c1">0</span>;</td>
+        <td id="LC202" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#444</span>;</td>
       </tr>
       <tr>
         <td id="L203" class="blob-num js-line-number" data-line-number="203"></td>
-        <td id="LC203" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">padding</span></span>: <span class="pl-c1">5<span class="pl-k">px</span></span>;</td>
+        <td id="LC203" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span> rgba not supported (IE 8) <span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L204" class="blob-num js-line-number" data-line-number="204"></td>
-        <td id="LC204" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">line-height</span></span>: <span class="pl-c1">1.4</span>;</td>
+        <td id="LC204" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.80</span>);</td>
       </tr>
       <tr>
         <td id="L205" class="blob-num js-line-number" data-line-number="205"></td>
-        <td id="LC205" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">display</span></span>: <span class="pl-c1">none</span>;</td>
+        <td id="LC205" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span> rgba supported <span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L206" class="blob-num js-line-number" data-line-number="206"></td>
-        <td id="LC206" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">height</span></span>: <span class="pl-c1">125<span class="pl-k">px</span></span>;</td>
+        <td id="LC206" class="blob-code blob-code-inner js-file-line">    *<span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#444</span>;</td>
       </tr>
       <tr>
         <td id="L207" class="blob-num js-line-number" data-line-number="207"></td>
-        <td id="LC207" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">380<span class="pl-k">px</span></span>;</td>
+        <td id="LC207" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span> IE 6 &amp; 7 <span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L208" class="blob-num js-line-number" data-line-number="208"></td>
-        <td id="LC208" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">text-align</span></span>: <span class="pl-c1">left</span>;</td>
+        <td id="LC208" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">border</span></span>: <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">solid</span> <span class="pl-c1">#999</span>;</td>
       </tr>
       <tr>
         <td id="L209" class="blob-num js-line-number" data-line-number="209"></td>
-        <td id="LC209" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">border</span></span>: <span class="pl-c1">4<span class="pl-k">px</span></span> <span class="pl-c1">solid</span> <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">.8</span>);</td>
+        <td id="LC209" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span>IE 6/7/8<span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L210" class="blob-num js-line-number" data-line-number="210"></td>
-        <td id="LC210" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">border-radius</span></span>: <span class="pl-c1">2<span class="pl-k">px</span></span>;</td>
+        <td id="LC210" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">border</span></span>: <span class="pl-c1">none</span> <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>);</td>
       </tr>
       <tr>
         <td id="L211" class="blob-num js-line-number" data-line-number="211"></td>
-        <td id="LC211" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-moz-box-shadow</span></span>: <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">2<span class="pl-k">px</span></span> <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.5</span>);</td>
+        <td id="LC211" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span>IE9 + everything else<span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L212" class="blob-num js-line-number" data-line-number="212"></td>
-        <td id="LC212" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-webkit-box-shadow</span></span>: <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">2<span class="pl-k">px</span></span> <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.5</span>);</td>
+        <td id="LC212" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-color</span></span>: <span class="pl-c1">#E6E6E6</span>;</td>
       </tr>
       <tr>
         <td id="L213" class="blob-num js-line-number" data-line-number="213"></td>
-        <td id="LC213" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">box-shadow</span></span>: <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">2<span class="pl-k">px</span></span> <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.5</span>);</td>
+        <td id="LC213" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">text-decoration</span></span>: <span class="pl-c1">none</span>;</td>
       </tr>
       <tr>
         <td id="L214" class="blob-num js-line-number" data-line-number="214"></td>
-        <td id="LC214" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-color</span></span>: <span class="pl-c1">rgba</span>(<span class="pl-c1">255</span>, <span class="pl-c1">255</span>, <span class="pl-c1">255</span>, <span class="pl-c1">1</span>);</td>
+        <td id="LC214" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">border-radius</span></span>: <span class="pl-c1">2<span class="pl-k">px</span></span>;</td>
       </tr>
       <tr>
         <td id="L215" class="blob-num js-line-number" data-line-number="215"></td>
-        <td id="LC215" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">position</span></span>: <span class="pl-c1">absolute</span>;</td>
+        <td id="LC215" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-webkit-font-smoothing</span></span>: <span class="pl-c1">antialiased</span>;</td>
       </tr>
       <tr>
         <td id="L216" class="blob-num js-line-number" data-line-number="216"></td>
-        <td id="LC216" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC216" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span> Transitions <span class="pl-c">*/</span></span></td>
       </tr>
       <tr>
         <td id="L217" class="blob-num js-line-number" data-line-number="217"></td>
-        <td id="LC217" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.tooltip</span> <span class="pl-ent">p</span>, <span class="pl-ent">h3</span> {</td>
+        <td id="LC217" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-webkit-transition</span></span>: <span class="pl-c1">0.1<span class="pl-k">s</span></span> <span class="pl-c1">linear</span> <span class="pl-c1">-webkit-box-shadow</span>;</td>
       </tr>
       <tr>
         <td id="L218" class="blob-num js-line-number" data-line-number="218"></td>
-        <td id="LC218" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">margin</span></span>: <span class="pl-c1">0.2<span class="pl-k">em</span></span>;</td>
+        <td id="LC218" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-moz-transition</span></span>: <span class="pl-c1">0.1<span class="pl-k">s</span></span> <span class="pl-c1">linear</span> <span class="pl-c1">-moz-box-shadow</span>;</td>
       </tr>
       <tr>
         <td id="L219" class="blob-num js-line-number" data-line-number="219"></td>
-        <td id="LC219" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC219" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-ms-transition</span></span>: <span class="pl-c1">0.1<span class="pl-k">s</span></span> <span class="pl-c1">linear</span> box-shadow;</td>
       </tr>
       <tr>
         <td id="L220" class="blob-num js-line-number" data-line-number="220"></td>
-        <td id="LC220" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.lab</span> {</td>
+        <td id="LC220" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-o-transition</span></span>: <span class="pl-c1">0.1<span class="pl-k">s</span></span> <span class="pl-c1">linear</span> box-shadow;</td>
       </tr>
       <tr>
         <td id="L221" class="blob-num js-line-number" data-line-number="221"></td>
-        <td id="LC221" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">#F02233</span>;</td>
+        <td id="LC221" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">transition</span></span>: <span class="pl-c1">0.1<span class="pl-k">s</span></span> <span class="pl-c1">linear</span> box-shadow;</td>
       </tr>
       <tr>
         <td id="L222" class="blob-num js-line-number" data-line-number="222"></td>
@@ -1582,35 +1557,35 @@
       </tr>
       <tr>
         <td id="L223" class="blob-num js-line-number" data-line-number="223"></td>
-        <td id="LC223" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.lib</span> {</td>
+        <td id="LC223" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.pure-button-hover</span>, <span class="pl-e">.pure-button</span><span class="pl-e">:hover</span>, <span class="pl-e">.pure-button</span><span class="pl-e">:focus</span> {</td>
       </tr>
       <tr>
         <td id="L224" class="blob-num js-line-number" data-line-number="224"></td>
-        <td id="LC224" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">#FDBB30</span>;</td>
+        <td id="LC224" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">filter</span></span>: progid:DXImageTransform.Microsoft.gradient(startColorstr=<span class="pl-s"><span class="pl-pds">&#39;</span>#00000000<span class="pl-pds">&#39;</span></span>, endColorstr=<span class="pl-s"><span class="pl-pds">&#39;</span>#1a000000<span class="pl-pds">&#39;</span></span>, GradientType=<span class="pl-c1">0</span>);</td>
       </tr>
       <tr>
         <td id="L225" class="blob-num js-line-number" data-line-number="225"></td>
-        <td id="LC225" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC225" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-image</span></span>: <span class="pl-bu">-webkit-gradient</span>(<span class="pl-c1">linear</span>, <span class="pl-c1">0</span> <span class="pl-c1">0</span>, <span class="pl-c1">0</span> <span class="pl-c1">100<span class="pl-k">%</span></span>, <span class="pl-bu">from</span>(<span class="pl-c1">transparent</span>), <span class="pl-bu">color-stop</span>(<span class="pl-c1">40<span class="pl-k">%</span></span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.05</span>)), <span class="pl-bu">to</span>(<span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.10</span>)));</td>
       </tr>
       <tr>
         <td id="L226" class="blob-num js-line-number" data-line-number="226"></td>
-        <td id="LC226" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.con</span> {</td>
+        <td id="LC226" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-image</span></span>: <span class="pl-c1">-webkit-linear-gradient</span>(<span class="pl-c1">transparent</span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.05</span>) <span class="pl-c1">40<span class="pl-k">%</span></span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.10</span>));</td>
       </tr>
       <tr>
         <td id="L227" class="blob-num js-line-number" data-line-number="227"></td>
-        <td id="LC227" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">#087FBD</span>;</td>
+        <td id="LC227" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-image</span></span>: <span class="pl-c1">-moz-linear-gradient</span>(<span class="pl-c1">top</span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.05</span>) <span class="pl-c1">0<span class="pl-k">%</span></span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.10</span>));</td>
       </tr>
       <tr>
         <td id="L228" class="blob-num js-line-number" data-line-number="228"></td>
-        <td id="LC228" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC228" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-image</span></span>: <span class="pl-c1">-ms-linear-gradient</span>(<span class="pl-c1">transparent</span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.05</span>) <span class="pl-c1">40<span class="pl-k">%</span></span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.10</span>));</td>
       </tr>
       <tr>
         <td id="L229" class="blob-num js-line-number" data-line-number="229"></td>
-        <td id="LC229" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.snp</span> {</td>
+        <td id="LC229" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-image</span></span>: <span class="pl-c1">-o-linear-gradient</span>(<span class="pl-c1">transparent</span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.05</span>) <span class="pl-c1">40<span class="pl-k">%</span></span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.10</span>));</td>
       </tr>
       <tr>
         <td id="L230" class="blob-num js-line-number" data-line-number="230"></td>
-        <td id="LC230" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">fill</span></span>: <span class="pl-c1">#C9C945</span>;</td>
+        <td id="LC230" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-image</span></span>: <span class="pl-c1">linear-gradient</span>(<span class="pl-c1">transparent</span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.05</span>) <span class="pl-c1">40<span class="pl-k">%</span></span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.10</span>));</td>
       </tr>
       <tr>
         <td id="L231" class="blob-num js-line-number" data-line-number="231"></td>
@@ -1618,295 +1593,31 @@
       </tr>
       <tr>
         <td id="L232" class="blob-num js-line-number" data-line-number="232"></td>
-        <td id="LC232" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>!</span></td>
+        <td id="LC232" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.pure-button</span><span class="pl-e">:focus</span> {</td>
       </tr>
       <tr>
         <td id="L233" class="blob-num js-line-number" data-line-number="233"></td>
-        <td id="LC233" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Pure v0.2.1</span></td>
+        <td id="LC233" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">outline</span></span>: <span class="pl-c1">0</span>;</td>
       </tr>
       <tr>
         <td id="L234" class="blob-num js-line-number" data-line-number="234"></td>
-        <td id="LC234" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Copyright 2013 Yahoo! Inc. All rights reserved.</span></td>
+        <td id="LC234" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L235" class="blob-num js-line-number" data-line-number="235"></td>
-        <td id="LC235" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Licensed under the BSD License.</span></td>
+        <td id="LC235" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.pure-button-active</span>, <span class="pl-e">.pure-button</span><span class="pl-e">:active</span> {</td>
       </tr>
       <tr>
         <td id="L236" class="blob-num js-line-number" data-line-number="236"></td>
-        <td id="LC236" class="blob-code blob-code-inner js-file-line"><span class="pl-c">https://github.com/yui/pure/blob/master/LICENSE.md</span></td>
+        <td id="LC236" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">rgb</span>(<span class="pl-c1">0</span>, <span class="pl-c1">120</span>, <span class="pl-c1">231</span>);</td>
       </tr>
       <tr>
         <td id="L237" class="blob-num js-line-number" data-line-number="237"></td>
-        <td id="LC237" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">*/</span></span></td>
+        <td id="LC237" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#fff</span></td>
       </tr>
       <tr>
         <td id="L238" class="blob-num js-line-number" data-line-number="238"></td>
-        <td id="LC238" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.pure-button</span> {</td>
-      </tr>
-      <tr>
-        <td id="L239" class="blob-num js-line-number" data-line-number="239"></td>
-        <td id="LC239" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span> Structure <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L240" class="blob-num js-line-number" data-line-number="240"></td>
-        <td id="LC240" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">display</span></span>: <span class="pl-c1">inline-block</span>;</td>
-      </tr>
-      <tr>
-        <td id="L241" class="blob-num js-line-number" data-line-number="241"></td>
-        <td id="LC241" class="blob-code blob-code-inner js-file-line">    *<span class="pl-c1"><span class="pl-c1">display</span></span>: <span class="pl-c1">inline</span>;</td>
-      </tr>
-      <tr>
-        <td id="L242" class="blob-num js-line-number" data-line-number="242"></td>
-        <td id="LC242" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span>IE 6/7<span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L243" class="blob-num js-line-number" data-line-number="243"></td>
-        <td id="LC243" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">zoom</span></span>: <span class="pl-c1">1</span>;</td>
-      </tr>
-      <tr>
-        <td id="L244" class="blob-num js-line-number" data-line-number="244"></td>
-        <td id="LC244" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">line-height</span></span>: <span class="pl-c1">normal</span>;</td>
-      </tr>
-      <tr>
-        <td id="L245" class="blob-num js-line-number" data-line-number="245"></td>
-        <td id="LC245" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">white-space</span></span>: <span class="pl-c1">nowrap</span>;</td>
-      </tr>
-      <tr>
-        <td id="L246" class="blob-num js-line-number" data-line-number="246"></td>
-        <td id="LC246" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">vertical-align</span></span>: <span class="pl-c1">baseline</span>;</td>
-      </tr>
-      <tr>
-        <td id="L247" class="blob-num js-line-number" data-line-number="247"></td>
-        <td id="LC247" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">text-align</span></span>: <span class="pl-c1">center</span>;</td>
-      </tr>
-      <tr>
-        <td id="L248" class="blob-num js-line-number" data-line-number="248"></td>
-        <td id="LC248" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">cursor</span></span>: <span class="pl-c1">pointer</span>;</td>
-      </tr>
-      <tr>
-        <td id="L249" class="blob-num js-line-number" data-line-number="249"></td>
-        <td id="LC249" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-webkit-user-drag</span></span>: <span class="pl-c1">none</span>;</td>
-      </tr>
-      <tr>
-        <td id="L250" class="blob-num js-line-number" data-line-number="250"></td>
-        <td id="LC250" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-webkit-user-select</span></span>: <span class="pl-c1">none</span>;</td>
-      </tr>
-      <tr>
-        <td id="L251" class="blob-num js-line-number" data-line-number="251"></td>
-        <td id="LC251" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-moz-user-select</span></span>: <span class="pl-c1">none</span>;</td>
-      </tr>
-      <tr>
-        <td id="L252" class="blob-num js-line-number" data-line-number="252"></td>
-        <td id="LC252" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-ms-user-select</span></span>: <span class="pl-c1">none</span>;</td>
-      </tr>
-      <tr>
-        <td id="L253" class="blob-num js-line-number" data-line-number="253"></td>
-        <td id="LC253" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">user-select</span></span>: <span class="pl-c1">none</span>;</td>
-      </tr>
-      <tr>
-        <td id="L254" class="blob-num js-line-number" data-line-number="254"></td>
-        <td id="LC254" class="blob-code blob-code-inner js-file-line">}</td>
-      </tr>
-      <tr>
-        <td id="L255" class="blob-num js-line-number" data-line-number="255"></td>
-        <td id="LC255" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span> Firefox: Get rid of the inner focus border <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L256" class="blob-num js-line-number" data-line-number="256"></td>
-        <td id="LC256" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.pure-button</span><span class="pl-e">::-moz-focus-inner</span> {</td>
-      </tr>
-      <tr>
-        <td id="L257" class="blob-num js-line-number" data-line-number="257"></td>
-        <td id="LC257" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">padding</span></span>: <span class="pl-c1">0</span>;</td>
-      </tr>
-      <tr>
-        <td id="L258" class="blob-num js-line-number" data-line-number="258"></td>
-        <td id="LC258" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">border</span></span>: <span class="pl-c1">0</span>;</td>
-      </tr>
-      <tr>
-        <td id="L259" class="blob-num js-line-number" data-line-number="259"></td>
-        <td id="LC259" class="blob-code blob-code-inner js-file-line">}</td>
-      </tr>
-      <tr>
-        <td id="L260" class="blob-num js-line-number" data-line-number="260"></td>
-        <td id="LC260" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span>csslint unqualified-attributes:false, outline-none:false<span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L261" class="blob-num js-line-number" data-line-number="261"></td>
-        <td id="LC261" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.pure-button</span> {</td>
-      </tr>
-      <tr>
-        <td id="L262" class="blob-num js-line-number" data-line-number="262"></td>
-        <td id="LC262" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">font-size</span></span>: <span class="pl-c1">100<span class="pl-k">%</span></span>;</td>
-      </tr>
-      <tr>
-        <td id="L263" class="blob-num js-line-number" data-line-number="263"></td>
-        <td id="LC263" class="blob-code blob-code-inner js-file-line">    *<span class="pl-c1"><span class="pl-c1">font-size</span></span>: <span class="pl-c1">90<span class="pl-k">%</span></span>;</td>
-      </tr>
-      <tr>
-        <td id="L264" class="blob-num js-line-number" data-line-number="264"></td>
-        <td id="LC264" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span>IE 6/7 - To reduce IE&#39;s oversized button text<span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L265" class="blob-num js-line-number" data-line-number="265"></td>
-        <td id="LC265" class="blob-code blob-code-inner js-file-line">    *<span class="pl-c1"><span class="pl-c1">overflow</span></span>: <span class="pl-c1">visible</span>;</td>
-      </tr>
-      <tr>
-        <td id="L266" class="blob-num js-line-number" data-line-number="266"></td>
-        <td id="LC266" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span>IE 6/7 - Because of IE&#39;s overly large left/right padding on buttons <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L267" class="blob-num js-line-number" data-line-number="267"></td>
-        <td id="LC267" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">padding</span></span>: <span class="pl-c1">0.5<span class="pl-k">em</span></span> <span class="pl-c1">1.5<span class="pl-k">em</span></span> <span class="pl-c1">0.5<span class="pl-k">em</span></span>;</td>
-      </tr>
-      <tr>
-        <td id="L268" class="blob-num js-line-number" data-line-number="268"></td>
-        <td id="LC268" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#444</span>;</td>
-      </tr>
-      <tr>
-        <td id="L269" class="blob-num js-line-number" data-line-number="269"></td>
-        <td id="LC269" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span> rgba not supported (IE 8) <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L270" class="blob-num js-line-number" data-line-number="270"></td>
-        <td id="LC270" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.80</span>);</td>
-      </tr>
-      <tr>
-        <td id="L271" class="blob-num js-line-number" data-line-number="271"></td>
-        <td id="LC271" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span> rgba supported <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L272" class="blob-num js-line-number" data-line-number="272"></td>
-        <td id="LC272" class="blob-code blob-code-inner js-file-line">    *<span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#444</span>;</td>
-      </tr>
-      <tr>
-        <td id="L273" class="blob-num js-line-number" data-line-number="273"></td>
-        <td id="LC273" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span> IE 6 &amp; 7 <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L274" class="blob-num js-line-number" data-line-number="274"></td>
-        <td id="LC274" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">border</span></span>: <span class="pl-c1">1<span class="pl-k">px</span></span> <span class="pl-c1">solid</span> <span class="pl-c1">#999</span>;</td>
-      </tr>
-      <tr>
-        <td id="L275" class="blob-num js-line-number" data-line-number="275"></td>
-        <td id="LC275" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span>IE 6/7/8<span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L276" class="blob-num js-line-number" data-line-number="276"></td>
-        <td id="LC276" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">border</span></span>: <span class="pl-c1">none</span> <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>);</td>
-      </tr>
-      <tr>
-        <td id="L277" class="blob-num js-line-number" data-line-number="277"></td>
-        <td id="LC277" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span>IE9 + everything else<span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L278" class="blob-num js-line-number" data-line-number="278"></td>
-        <td id="LC278" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-color</span></span>: <span class="pl-c1">#E6E6E6</span>;</td>
-      </tr>
-      <tr>
-        <td id="L279" class="blob-num js-line-number" data-line-number="279"></td>
-        <td id="LC279" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">text-decoration</span></span>: <span class="pl-c1">none</span>;</td>
-      </tr>
-      <tr>
-        <td id="L280" class="blob-num js-line-number" data-line-number="280"></td>
-        <td id="LC280" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">border-radius</span></span>: <span class="pl-c1">2<span class="pl-k">px</span></span>;</td>
-      </tr>
-      <tr>
-        <td id="L281" class="blob-num js-line-number" data-line-number="281"></td>
-        <td id="LC281" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-webkit-font-smoothing</span></span>: <span class="pl-c1">antialiased</span>;</td>
-      </tr>
-      <tr>
-        <td id="L282" class="blob-num js-line-number" data-line-number="282"></td>
-        <td id="LC282" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">/*</span> Transitions <span class="pl-c">*/</span></span></td>
-      </tr>
-      <tr>
-        <td id="L283" class="blob-num js-line-number" data-line-number="283"></td>
-        <td id="LC283" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-webkit-transition</span></span>: <span class="pl-c1">0.1<span class="pl-k">s</span></span> <span class="pl-c1">linear</span> <span class="pl-c1">-webkit-box-shadow</span>;</td>
-      </tr>
-      <tr>
-        <td id="L284" class="blob-num js-line-number" data-line-number="284"></td>
-        <td id="LC284" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-moz-transition</span></span>: <span class="pl-c1">0.1<span class="pl-k">s</span></span> <span class="pl-c1">linear</span> <span class="pl-c1">-moz-box-shadow</span>;</td>
-      </tr>
-      <tr>
-        <td id="L285" class="blob-num js-line-number" data-line-number="285"></td>
-        <td id="LC285" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-ms-transition</span></span>: <span class="pl-c1">0.1<span class="pl-k">s</span></span> <span class="pl-c1">linear</span> box-shadow;</td>
-      </tr>
-      <tr>
-        <td id="L286" class="blob-num js-line-number" data-line-number="286"></td>
-        <td id="LC286" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">-o-transition</span></span>: <span class="pl-c1">0.1<span class="pl-k">s</span></span> <span class="pl-c1">linear</span> box-shadow;</td>
-      </tr>
-      <tr>
-        <td id="L287" class="blob-num js-line-number" data-line-number="287"></td>
-        <td id="LC287" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">transition</span></span>: <span class="pl-c1">0.1<span class="pl-k">s</span></span> <span class="pl-c1">linear</span> box-shadow;</td>
-      </tr>
-      <tr>
-        <td id="L288" class="blob-num js-line-number" data-line-number="288"></td>
-        <td id="LC288" class="blob-code blob-code-inner js-file-line">}</td>
-      </tr>
-      <tr>
-        <td id="L289" class="blob-num js-line-number" data-line-number="289"></td>
-        <td id="LC289" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.pure-button-hover</span>, <span class="pl-e">.pure-button</span><span class="pl-e">:hover</span>, <span class="pl-e">.pure-button</span><span class="pl-e">:focus</span> {</td>
-      </tr>
-      <tr>
-        <td id="L290" class="blob-num js-line-number" data-line-number="290"></td>
-        <td id="LC290" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">filter</span></span>: progid:DXImageTransform.Microsoft.gradient(startColorstr=<span class="pl-s"><span class="pl-pds">&#39;</span>#00000000<span class="pl-pds">&#39;</span></span>, endColorstr=<span class="pl-s"><span class="pl-pds">&#39;</span>#1a000000<span class="pl-pds">&#39;</span></span>, GradientType=<span class="pl-c1">0</span>);</td>
-      </tr>
-      <tr>
-        <td id="L291" class="blob-num js-line-number" data-line-number="291"></td>
-        <td id="LC291" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-image</span></span>: <span class="pl-bu">-webkit-gradient</span>(<span class="pl-c1">linear</span>, <span class="pl-c1">0</span> <span class="pl-c1">0</span>, <span class="pl-c1">0</span> <span class="pl-c1">100<span class="pl-k">%</span></span>, <span class="pl-bu">from</span>(<span class="pl-c1">transparent</span>), <span class="pl-bu">color-stop</span>(<span class="pl-c1">40<span class="pl-k">%</span></span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.05</span>)), <span class="pl-bu">to</span>(<span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.10</span>)));</td>
-      </tr>
-      <tr>
-        <td id="L292" class="blob-num js-line-number" data-line-number="292"></td>
-        <td id="LC292" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-image</span></span>: <span class="pl-c1">-webkit-linear-gradient</span>(<span class="pl-c1">transparent</span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.05</span>) <span class="pl-c1">40<span class="pl-k">%</span></span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.10</span>));</td>
-      </tr>
-      <tr>
-        <td id="L293" class="blob-num js-line-number" data-line-number="293"></td>
-        <td id="LC293" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-image</span></span>: <span class="pl-c1">-moz-linear-gradient</span>(<span class="pl-c1">top</span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.05</span>) <span class="pl-c1">0<span class="pl-k">%</span></span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.10</span>));</td>
-      </tr>
-      <tr>
-        <td id="L294" class="blob-num js-line-number" data-line-number="294"></td>
-        <td id="LC294" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-image</span></span>: <span class="pl-c1">-ms-linear-gradient</span>(<span class="pl-c1">transparent</span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.05</span>) <span class="pl-c1">40<span class="pl-k">%</span></span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.10</span>));</td>
-      </tr>
-      <tr>
-        <td id="L295" class="blob-num js-line-number" data-line-number="295"></td>
-        <td id="LC295" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-image</span></span>: <span class="pl-c1">-o-linear-gradient</span>(<span class="pl-c1">transparent</span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.05</span>) <span class="pl-c1">40<span class="pl-k">%</span></span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.10</span>));</td>
-      </tr>
-      <tr>
-        <td id="L296" class="blob-num js-line-number" data-line-number="296"></td>
-        <td id="LC296" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">background-image</span></span>: <span class="pl-c1">linear-gradient</span>(<span class="pl-c1">transparent</span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.05</span>) <span class="pl-c1">40<span class="pl-k">%</span></span>, <span class="pl-c1">rgba</span>(<span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0</span>, <span class="pl-c1">0.10</span>));</td>
-      </tr>
-      <tr>
-        <td id="L297" class="blob-num js-line-number" data-line-number="297"></td>
-        <td id="LC297" class="blob-code blob-code-inner js-file-line">}</td>
-      </tr>
-      <tr>
-        <td id="L298" class="blob-num js-line-number" data-line-number="298"></td>
-        <td id="LC298" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.pure-button</span><span class="pl-e">:focus</span> {</td>
-      </tr>
-      <tr>
-        <td id="L299" class="blob-num js-line-number" data-line-number="299"></td>
-        <td id="LC299" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">outline</span></span>: <span class="pl-c1">0</span>;</td>
-      </tr>
-      <tr>
-        <td id="L300" class="blob-num js-line-number" data-line-number="300"></td>
-        <td id="LC300" class="blob-code blob-code-inner js-file-line">}</td>
-      </tr>
-      <tr>
-        <td id="L301" class="blob-num js-line-number" data-line-number="301"></td>
-        <td id="LC301" class="blob-code blob-code-inner js-file-line"><span class="pl-e">.pure-button-active</span>, <span class="pl-e">.pure-button</span><span class="pl-e">:active</span> {</td>
-      </tr>
-      <tr>
-        <td id="L302" class="blob-num js-line-number" data-line-number="302"></td>
-        <td id="LC302" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">rgb</span>(<span class="pl-c1">0</span>, <span class="pl-c1">120</span>, <span class="pl-c1">231</span>);</td>
-      </tr>
-      <tr>
-        <td id="L303" class="blob-num js-line-number" data-line-number="303"></td>
-        <td id="LC303" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1"><span class="pl-c1">color</span></span>: <span class="pl-c1">#fff</span></td>
-      </tr>
-      <tr>
-        <td id="L304" class="blob-num js-line-number" data-line-number="304"></td>
-        <td id="LC304" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC238" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
 </table>
 
@@ -1918,7 +1629,8 @@
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
         <li><clipboard-copy class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
         <li><clipboard-copy class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" href="/marcoumarcos/D3js-uk-political-donations/blame/b4693c8269a075ad52dfc3c19bc896aedff99b98/style.css">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" href="/ioniodi/D3js-uk-political-donations/blame/29356e9b57e433155d4978b36b2eaa3b47ac74a2/style.css">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" href="/ioniodi/D3js-uk-political-donations/issues/new">Open new issue</a></li>
       </ul>
     </div>
   </div>
@@ -1948,7 +1660,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.27803s from unicorn-4242210879-31w64">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.35852s from unicorn-4160684102-bjfjl">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
